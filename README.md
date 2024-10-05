@@ -1,2 +1,2 @@
-# Epic-Solutions
+# EPIC-Solutions
 Working prototype of the solutions proposed.
